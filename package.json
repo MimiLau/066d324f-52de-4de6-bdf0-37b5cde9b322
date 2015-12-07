@@ -1,0 +1,28 @@
+{
+  "name": "aftership-challenge",
+  "version": "1.0.0",
+  "description": "Aftership Challenge",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MimiLau/6997c612-e3a8-4ed5-913d-b422826b1d61.git"
+  },
+  "author": "Mimi Lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MimiLau/6997c612-e3a8-4ed5-913d-b422826b1d61/issues"
+  },
+  "homepage": "https://github.com/MimiLau/6997c612-e3a8-4ed5-913d-b422826b1d61#readme" ,
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-cssmin": "latest"
+  }
+}
