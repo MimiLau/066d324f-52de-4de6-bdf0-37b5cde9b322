@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MimiLau/6997c612-e3a8-4ed5-913d-b422826b1d61.git"
+    "url": "git+https://github.com/MimiLau/066d324f-52de-4de6-bdf0-37b5cde9b322.git"
   },
   "author": "Mimi Lau",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MimiLau/6997c612-e3a8-4ed5-913d-b422826b1d61/issues"
+    "url": "https://github.com/MimiLau/066d324f-52de-4de6-bdf0-37b5cde9b322/issues"
   },
-  "homepage": "https://github.com/MimiLau/6997c612-e3a8-4ed5-913d-b422826b1d61#readme" ,
+  "homepage": "https://github.com/MimiLau/066d324f-52de-4de6-bdf0-37b5cde9b322#readme" ,
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-clean": "latest",

@@ -6,8 +6,17 @@ My repository for Aftership Challenge : frontend-level-1.
 
 ```
 challenge
-├── dist // <— Concatenated and minified files
+├── dist 
+│ 	├── css
+│ 	│	 └── main.min.css
+│ 	└── js
+│ 		 └── scripts.min.js
 ├── index.html
-├── [any build tool files needed]
+├── images // <- All image files
 └── src // <— Source files
 ```
+
+# Technology
+
+* CSS frameworks : BootStrap
+* JS frameworks : jQuery, Lazy Load 

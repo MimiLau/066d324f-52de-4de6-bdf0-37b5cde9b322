@@ -7,3 +7,10 @@ function limitText(limitField, limitCount, limitNum) {
 		limitCount.value = limitNum - limitField.value.length;
 	}
 }
+
+$(function() {
+	$("img").lazyload({
+    	effect : "fadeIn"
+	});
+}); 
+ 
