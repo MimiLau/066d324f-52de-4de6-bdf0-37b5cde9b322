@@ -1,6 +1,6 @@
 ### Aftership Challenge
 
-My repository for Aftership Challenge : frontend-level-1.
+My repository for Aftership Challenge : [frontend-level-1](https://github.com/AfterShip/challenge/tree/frontend-level-1) .
 
 This is built by static HTML page as well as combining and minifying static files.
 
