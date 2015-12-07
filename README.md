@@ -13,7 +13,7 @@ Auto-compile `.less` and `.js` files from the `src/less/` and `src/js` folders a
 
     grunt watch
 
-Build the project into the `dist/` folder: compile `.less` and `.js` files.
+Build the project into the `dist/` folder: compile `.less` and `.js` files from the `src/less/` and `src/js` folders.
 
     grunt
 
