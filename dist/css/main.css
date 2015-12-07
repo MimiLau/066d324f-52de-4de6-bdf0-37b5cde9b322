@@ -6766,6 +6766,7 @@ body .section-title span {
   padding-left: 10px;
   position: relative;
   z-index: 10;
+  line-height: 31px;
 }
 body .section-title:after {
   content: "";
