@@ -24,4 +24,4 @@ challenge
 
 # Contact
 
-* Email : meiyanlau98234304.com
+* Email : meiyanlau98234304@gmail.com
