@@ -8,6 +8,7 @@ My repository for Aftership Challenge : frontend-level-1.
 challenge
 ├── dist 
 │ 	├── css
+│ 	│	 ├── main.css
 │ 	│	 └── main.min.css
 │ 	└── js
 │ 		 └── scripts.min.js
@@ -20,3 +21,7 @@ challenge
 
 * CSS frameworks : BootStrap
 * JS frameworks : jQuery, Lazy Load 
+
+# Contact
+
+* Email : meiyanlau98234304.com

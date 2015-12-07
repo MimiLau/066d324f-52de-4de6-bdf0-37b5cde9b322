@@ -13,4 +13,3 @@ $(function() {
     	effect : "fadeIn"
 	});
 }); 
- 

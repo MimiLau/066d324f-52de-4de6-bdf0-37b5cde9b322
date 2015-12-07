@@ -33,7 +33,7 @@ module.exports = function(grunt) {
     less: {
       dist: {
         files: {
-          'src/less/main.css': ['src/less/pretty.less']
+          'dist/css/main.css': ['src/less/pretty.less']
         },
         options: {
           //compress: true
@@ -47,7 +47,7 @@ module.exports = function(grunt) {
     cssmin: {
       dist: {
         files: {
-          'dist/css/main.min.css': ['src/less/main.css']
+          'dist/css/main.min.css': ['dist/css/main.css']
         },
         options: {
         
